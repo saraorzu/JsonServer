@@ -39,7 +39,7 @@
     }
   },
   "ETH-USD": {
-  "Realtime Currency Exchange Rate": {
+    "Realtime Currency Exchange Rate": {
       "1. From_Currency Code": "ETH",
       "2. From_Currency Name": "Ethereum",
       "3. To_Currency Code": "USD",
@@ -49,7 +49,7 @@
       "7. Time Zone": "UTC",
       "8. Bid Price": "2005.75000000",
       "9. Ask Price": "2005.76000000"
-  }
+    }
   },
   "XMR-EUR": {
     "Realtime Currency Exchange Rate": {
@@ -66,7 +66,7 @@
   },
   "XMR-USD": {
     "Realtime Currency Exchange Rate": {
-       "1. From_Currency Code": "XMR",
+      "1. From_Currency Code": "XMR",
       "2. From_Currency Name": "Monero",
       "3. To_Currency Code": "USD",
       "4. To_Currency Name": "United States Dollar",
@@ -88,47 +88,6 @@
       "7. Time Zone": "UTC",
       "8. Bid Price": "213.77918650",
       "9. Ask Price": "213.87129300"
-    }
-  },
-
-  "BCH-USD": {
-    "Realtime Currency Exchange Rate": {
-      "1. From_Currency Code": "BCH",
-      "2. From_Currency Name": "Bitcoin-Cash",
-      "3. To_Currency Code": "USD",
-      "4. To_Currency Name": "United States Dollar",
-      "5. Exchange Rate": "232.10000000",
-      "6. Last Refreshed": "2023-11-15 13:43:23",
-      "7. Time Zone": "UTC",
-      "8. Bid Price": "232.10000000",
-      "9. Ask Price": "232.20000000"
-    }
-  },
-
-   "LTC-EUR": {
-    "Realtime Currency Exchange Rate": {
-      "1. From_Currency Code": "LTC",
-      "2. From_Currency Name": "Litecoin",
-      "3. To_Currency Code": "EUR",
-      "4. To_Currency Name": "Euro",
-      "5. Exchange Rate": "66.22457350",
-      "6. Last Refreshed": "2023-11-15 13:44:16",
-      "7. Time Zone": "UTC",
-      "8. Bid Price": "66.21536285",
-      "9. Ask Price": "66.22457350"
-    }
-  },
-  "LTC-USD": {
-    "Realtime Currency Exchange Rate": {
-      "1. From_Currency Code": "LTC",
-      "2. From_Currency Name": "Litecoin",
-      "3. To_Currency Code": "USD",
-      "4. To_Currency Name": "United States Dollar",
-      "5. Exchange Rate": "71.89000000",
-      "6. Last Refreshed": "2023-11-15 13:44:11",
-      "7. Time Zone": "UTC",
-      "8. Bid Price": "71.88000000",
-      "9. Ask Price": "71.89000000"
     }
   }
 }
