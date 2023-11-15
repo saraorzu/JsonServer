@@ -1,4 +1,5 @@
 {
+    [
     "Realtime Currency Exchange Rate": {
         "1. From_Currency Code": "BTC",
         "2. From_Currency Name": "Bitcoin",
@@ -109,4 +110,5 @@
         "8. Bid Price": "71.88000000",
         "9. Ask Price": "71.89000000"
     }
+    ]
 }
