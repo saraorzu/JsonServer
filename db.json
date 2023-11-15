@@ -24,5 +24,111 @@
       "8. Bid Price": "36061.62000000",
       "9. Ask Price": "36061.63000000"
     }
+  },
+  "ETH-EUR": {
+    "Realtime Currency Exchange Rate": {
+      "1. From_Currency Code": "ETH",
+      "2. From_Currency Name": "Ethereum",
+      "3. To_Currency Code": "EUR",
+      "4. To_Currency Name": "Euro",
+      "5. Exchange Rate": "1847.89586690",
+      "6. Last Refreshed": "2023-11-15 13:41:20",
+      "7. Time Zone": "UTC",
+      "8. Bid Price": "1847.89586690",
+      "9. Ask Price": "1847.90507755"
+    }
+  },
+  "ETH-USD": {
+  "Realtime Currency Exchange Rate": {
+      "1. From_Currency Code": "ETH",
+      "2. From_Currency Name": "Ethereum",
+      "3. To_Currency Code": "USD",
+      "4. To_Currency Name": "United States Dollar",
+      "5. Exchange Rate": "2005.76000000",
+      "6. Last Refreshed": "2023-11-15 13:41:01",
+      "7. Time Zone": "UTC",
+      "8. Bid Price": "2005.75000000",
+      "9. Ask Price": "2005.76000000"
+  }
+  },
+  "XMR-EUR": {
+    "Realtime Currency Exchange Rate": {
+      "1. From_Currency Code": "XMR",
+      "2. From_Currency Name": "Monero",
+      "3. To_Currency Code": "EUR",
+      "4. To_Currency Name": "Euro",
+      "5. Exchange Rate": "151.33097950",
+      "6. Last Refreshed": "2023-11-15 13:42:28",
+      "7. Time Zone": "UTC",
+      "8. Bid Price": "151.33097950",
+      "9. Ask Price": "151.42308600"
+    }
+  },
+  "XMR-USD": {
+    "Realtime Currency Exchange Rate": {
+       "1. From_Currency Code": "XMR",
+      "2. From_Currency Name": "Monero",
+      "3. To_Currency Code": "USD",
+      "4. To_Currency Name": "United States Dollar",
+      "5. Exchange Rate": "164.50000000",
+      "6. Last Refreshed": "2023-11-15 13:42:21",
+      "7. Time Zone": "UTC",
+      "8. Bid Price": "164.40000000",
+      "9. Ask Price": "164.50000000"
+    }
+  },
+  "BCH-EUR": {
+    "Realtime Currency Exchange Rate": {
+      "1. From_Currency Code": "BCH",
+      "2. From_Currency Name": "Bitcoin-Cash",
+      "3. To_Currency Code": "EUR",
+      "4. To_Currency Name": "Euro",
+      "5. Exchange Rate": "213.77918650",
+      "6. Last Refreshed": "2023-11-15 13:43:11",
+      "7. Time Zone": "UTC",
+      "8. Bid Price": "213.77918650",
+      "9. Ask Price": "213.87129300"
+    }
+  },
+
+  "BCH-USD": {
+    "Realtime Currency Exchange Rate": {
+      "1. From_Currency Code": "BCH",
+      "2. From_Currency Name": "Bitcoin-Cash",
+      "3. To_Currency Code": "USD",
+      "4. To_Currency Name": "United States Dollar",
+      "5. Exchange Rate": "232.10000000",
+      "6. Last Refreshed": "2023-11-15 13:43:23",
+      "7. Time Zone": "UTC",
+      "8. Bid Price": "232.10000000",
+      "9. Ask Price": "232.20000000"
+    }
+  },
+
+   "LTC-EUR": {
+    "Realtime Currency Exchange Rate": {
+      "1. From_Currency Code": "LTC",
+      "2. From_Currency Name": "Litecoin",
+      "3. To_Currency Code": "EUR",
+      "4. To_Currency Name": "Euro",
+      "5. Exchange Rate": "66.22457350",
+      "6. Last Refreshed": "2023-11-15 13:44:16",
+      "7. Time Zone": "UTC",
+      "8. Bid Price": "66.21536285",
+      "9. Ask Price": "66.22457350"
+    }
+  },
+  "LTC-USD": {
+    "Realtime Currency Exchange Rate": {
+      "1. From_Currency Code": "LTC",
+      "2. From_Currency Name": "Litecoin",
+      "3. To_Currency Code": "USD",
+      "4. To_Currency Name": "United States Dollar",
+      "5. Exchange Rate": "71.89000000",
+      "6. Last Refreshed": "2023-11-15 13:44:11",
+      "7. Time Zone": "UTC",
+      "8. Bid Price": "71.88000000",
+      "9. Ask Price": "71.89000000"
+    }
   }
 }
