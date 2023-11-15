@@ -63,31 +63,5 @@
       "8. Bid Price": "151.33097950",
       "9. Ask Price": "151.42308600"
     }
-  },
-  "XMR-USD": {
-    "Realtime Currency Exchange Rate": {
-      "1. From_Currency Code": "XMR",
-      "2. From_Currency Name": "Monero",
-      "3. To_Currency Code": "USD",
-      "4. To_Currency Name": "United States Dollar",
-      "5. Exchange Rate": "164.50000000",
-      "6. Last Refreshed": "2023-11-15 13:42:21",
-      "7. Time Zone": "UTC",
-      "8. Bid Price": "164.40000000",
-      "9. Ask Price": "164.50000000"
-    }
-  },
-  "BCH-EUR": {
-    "Realtime Currency Exchange Rate": {
-      "1. From_Currency Code": "BCH",
-      "2. From_Currency Name": "Bitcoin-Cash",
-      "3. To_Currency Code": "EUR",
-      "4. To_Currency Name": "Euro",
-      "5. Exchange Rate": "213.77918650",
-      "6. Last Refreshed": "2023-11-15 13:43:11",
-      "7. Time Zone": "UTC",
-      "8. Bid Price": "213.77918650",
-      "9. Ask Price": "213.87129300"
-    }
   }
 }
