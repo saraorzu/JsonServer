@@ -12,7 +12,8 @@
       "9. Ask Price": "32938.14568016"
     }
   },
-  "BTC-USD": {
+  "BCH-EUR": {
+    "Realtime Currency Exchange Rate": {
       "1. From_Currency Code": "BCH",
       "2. From_Currency Name": "Bitcoin-Cash",
       "3. To_Currency Code": "EUR",
@@ -37,7 +38,7 @@
       "9. Ask Price": "1847.90507755"
     }
   },
-  "ETH-USD": {
+  "LTC-EUR": {
     "Realtime Currency Exchange Rate": {
       "1. From_Currency Code": "LTC",
       "2. From_Currency Name": "Litecoin",
